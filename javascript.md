@@ -16,10 +16,11 @@
   1. [迭代器](#iterators)
   1. [属性](#properties)
   1. [变量](#variables)
+  1. [提升](#hoisting)
   1. [比较运算符 & 等号](#comparison-operators--equality)
   1. [代码块](#blocks)
   1. [注释](#comments)
-  1. [空格](#whitespace)
+  1. [空白](#whitespace)
   1. [逗号](#commas)
   1. [分号](#semicolons)
   1. [类型转换](#type-casting--coercion)
@@ -89,7 +90,7 @@
     const item = {};
     ```
 
-  - [2.2](#2.2) <a name='2.2'></a> 不要使用 [保留字](http://es5.github.io/#x7.6.1) 作为键值。这样的话在 IE8 不会运行。 
+  - [2.2](#2.2) <a name='2.2'></a> 不要使用 [保留字](http://es5.github.io/#x7.6.1) 作为键值。这样的话在 IE8 不会运行。
 
     ```javascript
     // bad
@@ -890,7 +891,7 @@
     }
     ```
 
-  - [15.3](#15.3) <a name='15.3'></a> 优先使用简写。
+  - [13.3](#15.3) <a name='15.3'></a> 优先使用简写。
 
     ```javascript
     // bad
