@@ -1,6 +1,6 @@
 
 # JavaScript代码规范
-
+本规范为ES6代码规范,如果对于ES6语法不了解建议阅读  [ECMAScript6 入门 by 阮一峰](http://es6.ruanyifeng.com/)
 <a name="table-of-contents"></a>
 ## 目录
 
